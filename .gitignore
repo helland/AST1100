@@ -3,11 +3,11 @@
 1C4/*.txt
 1C5/*.txt
 1D6/*.txt
-1B7/*.png
-1B8/*.png
-1C4/*.png
-1C5/*.png
-1D6/*.png
+1B7/**.png
+1B8/**.png
+1C4/**.png
+1C5/**.png
+1D6/**.png
 **.pyc
 **.bin
 **.xml
