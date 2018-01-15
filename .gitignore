@@ -1,13 +1,10 @@
 **/*.png
 **/*.txt
-
+*.txt
 *.png
-
 *.pyc
-
 *.bin
 *.xml
-
 1A/
 1B7/old_versions/
 1B8/old_version/
