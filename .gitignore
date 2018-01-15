@@ -3,8 +3,8 @@
 *.pyc
 *.bin
 *.xml
-1B7\unit_test.py
-1B8\unit_test.py
+1B7/unit_test.py
+1B8/unit_test.py
 1A/
 1B7/old_versions/
 1B8/old_version/
